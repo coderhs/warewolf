@@ -1,0 +1,5 @@
+Open Docuement Presentation(ODP), is open data format used to store details of a presentations. It is used in softwares like libre office, open office, etc. 
+
+ODP is a zip file which has all the images, videos, etc used in the presentation. Along with these media files, there exist an XML file which has the markup of the presentation. It purpose is similar to the HTML file. 
+
+This program is used to extract the contents of the ODP file. 
